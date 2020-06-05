@@ -15,7 +15,7 @@ main {
 
 .lienContainer {
   color: rgb(0, 0, 255);
-  font-family: "Lexend+Tera", sans-serif;
+  font-family: "Lexend+Tera";
   font-size: 120%;
   grid-column: 2/1;
   grid-row: 2/3;
@@ -44,13 +44,14 @@ main {
 h1 {
   grid-column: 1/1;
   grid-row: 1 / 1;
-  font-family:"Michroma", sans-serif;
+  font-family:"Michroma";
   color: rgb(255, 255, 255);
   font-size: 550%;
   margin-top: 0%;
   font-size: 7rem;
   letter-spacing: 2rem;
   text-align: center;
+  src: local("Michroma"), local("Michroma"), url(https://fonts.google.com/specimen/Michroma) format('woff2');
 }
 
 h3 {
