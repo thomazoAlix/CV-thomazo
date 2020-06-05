@@ -15,7 +15,7 @@ main {
 
 .lienContainer {
   color: rgb(0, 0, 255);
-  font-family: "Bangers", cursive;
+  font-family: "Lexend+Tera", sans-serif;
   font-size: 120%;
   grid-column: 2/1;
   grid-row: 2/3;
